@@ -1,9 +1,9 @@
 ---
-title: Chord Function
+title: #Chord Function
 date: 2022-4-26
 priority: ['Front-Matter', 501]
 tags: ['Front-Matter']
-descr: This post has disabled table of contents.
+descr: 一篇关于和声功能的Memo
 toc: false
 ---
 
@@ -14,7 +14,9 @@ ______________________________________________________________________________
 
 ◦古典和声功能进行的基本规律：T-S-D-T
 也可以衍生为以下几种形式：
- ◦略过Sub的T-D-T
+
+◦略过Sub的T-D-T
+
  ◦略过Dominant的T-S-T
 
 用属和弦或下属和弦制造张力，并在最后回归最为稳定的Tonic功能组。
