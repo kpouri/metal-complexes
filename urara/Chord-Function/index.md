@@ -4,7 +4,7 @@ date: 2022-4-26
 priority: ['Front-Matter', 501]
 tags: ['Front-Matter']
 descr: This post has disabled table of contents.
-toc: true
+toc: flase
 ---
 
 This post has disabled table of contents.
