@@ -12,8 +12,8 @@ toc: false
 ## ○ 概念ベース
 ◦古典和声功能进行的基本规律：T-S-D-T
 也可以衍生为以下几种形式：
- ◦略过Sub的T-D-T
- ◦略过Dominant的T-S-T
+\n◦略过Sub的T-D-T
+\n◦略过Dominant的T-S-T
 
 用属和弦或下属和弦制造张力，并在最后回归最为稳定的Tonic功能组。
 
