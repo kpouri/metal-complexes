@@ -2,7 +2,7 @@
 title: #Chord Function
 date: 2022-4-26
 priority: ['Front-Matter', 501]
-tags: ['Front-Matter']
+tags: ['Dreams for Dummies']
 descr: 一篇关于和声功能的Memo
 toc: false
 ---
