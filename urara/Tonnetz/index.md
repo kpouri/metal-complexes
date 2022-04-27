@@ -3,12 +3,11 @@ title: Tonnetz—关于音网图的使用
 date: 2022-4-27
 priority: ['Front-Matter', 501]
 tags: ['Dreams for Dummies']
-descr: 音网图
+descr: (什么是音网图？)
 toc: false
 cover: /Tonnetz/tonnetz.png
 ---
 
-什么是音网图？
 
 ### #概念ベース
 
@@ -31,6 +30,13 @@ Perfect fifth = Major Third + minor Third
    - 斜线 L = minor Third = 3 Semitones
 
     - 横线 P = Perfect fifth = 7 Semitones
+
+####   形状不变，任意挪动建构相同音程。
+
+![tonnetz3](/Tonnetz/tonnetz3.png)
+
+
+______________________________________________________________________________
 
 
 
