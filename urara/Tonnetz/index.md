@@ -14,16 +14,13 @@ cover: /Tonnetz/tonnetz.png
 
 Perfect fifth = Major Third + minor Third
 
-  =minor + Major Third
+  =minor Third + Major Third
 
 一个八度内的十二个音向左右周期性往复。将这十二个乐音重新排列，往复，铺于平面制成的Tonnetz能够更直观地表示上述关系。
 
-#### 一个八度 或称为一个单元区域(Unit cell)。
+####   一个八度 或称为一个单元区域(Unit cell)。
 
-
-![tonnetz2](/Tonnetz/tonnetz2.png)
-
-每个单元区域都包含7个半音音程，具体构建见注释。
+每个单元区域都包含了7个半音音程，具体构建见注释。
 
 ![tonnetz1](/Tonnetz/tonnetz1.png)
 
