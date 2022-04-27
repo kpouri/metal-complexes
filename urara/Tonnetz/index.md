@@ -23,6 +23,10 @@ Perfect fifth = Major Third + minor Third
 
 ![tonnetz2](/Tonnetz/tonnetz2.png)
 
+每个单元区域都包含7个半音音程，具体构建见注释。
+
+![tonnetz1](/Tonnetz/tonnetz1.png)
+
 *表达方式 注释：
 
   - 斜线 R = Major Third = 4 Semitones
