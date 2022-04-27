@@ -10,11 +10,9 @@ cover: /Tonnetz/tonnetz.png
 
 什么是音网图？
 
-### 概念ベース
+### #概念ベース
 
 Perfect fifth = Major Third + minor Third
 
-=minor + Major Third
-
-ps:指音程关系。
+  =minor + Major Third
 
