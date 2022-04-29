@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     name: 'Kpouri',
     photo: '/assets/maskable@512.png',
     status: '🌸',
-    bio: '-'
+    bio: '-',
     github: 'Kpouri',
   },
   themeColor: '#3D4451'
