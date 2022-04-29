@@ -1,5 +1,5 @@
 import type { SiteConfig } from '$lib/types/site'
-const bio = ['x','y','z','n']
+const bio = ['-','Kpouri的博客','Rabbit!','Metal-Complex']
 
 export const site: SiteConfig = {
   protocol: 'https://',
